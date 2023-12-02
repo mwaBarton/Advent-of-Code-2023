@@ -6,3 +6,11 @@ D:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 02\obj\Deb
 D:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 02\obj\Debug\Day 02.csproj.CoreCompileInputs.cache
 D:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 02\obj\Debug\Day 02.exe
 D:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 02\obj\Debug\Day 02.pdb
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 02\bin\Debug\Day 02.exe.config
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 02\bin\Debug\Day 02.exe
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 02\bin\Debug\Day 02.pdb
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 02\obj\Debug\Day 02.csproj.AssemblyReference.cache
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 02\obj\Debug\Day 02.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 02\obj\Debug\Day 02.csproj.CoreCompileInputs.cache
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 02\obj\Debug\Day 02.exe
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 02\obj\Debug\Day 02.pdb

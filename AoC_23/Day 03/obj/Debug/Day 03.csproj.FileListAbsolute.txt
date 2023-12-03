@@ -1,0 +1,16 @@
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\ConsoleApp1\obj\Debug\Day 03.csproj.AssemblyReference.cache
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\ConsoleApp1\obj\Debug\Day 03.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\ConsoleApp1\obj\Debug\Day 03.csproj.CoreCompileInputs.cache
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 03\bin\Debug\ConsoleApp1.exe.config
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 03\bin\Debug\ConsoleApp1.exe
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 03\bin\Debug\ConsoleApp1.pdb
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 03\obj\Debug\Day 03.csproj.AssemblyReference.cache
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 03\obj\Debug\Day 03.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 03\obj\Debug\Day 03.csproj.CoreCompileInputs.cache
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 03\obj\Debug\ConsoleApp1.exe
+G:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 03\obj\Debug\ConsoleApp1.pdb

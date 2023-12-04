@@ -1,0 +1,8 @@
+D:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 04\bin\Debug\Day 04.exe.config
+D:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 04\bin\Debug\Day 04.exe
+D:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 04\bin\Debug\Day 04.pdb
+D:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 04\obj\Debug\Day 04.csproj.AssemblyReference.cache
+D:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 04\obj\Debug\Day 04.csproj.SuggestedBindingRedirects.cache
+D:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 04\obj\Debug\Day 04.csproj.CoreCompileInputs.cache
+D:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 04\obj\Debug\Day 04.exe
+D:\My Drive\0 - Teaching\AoC\mwaBarton\Advent-of-Code-2023\AoC_23\Day 04\obj\Debug\Day 04.pdb
